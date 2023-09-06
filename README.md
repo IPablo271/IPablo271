@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipablo271&label=Profile%20views&color=0e75b6&style=flat" alt="ipablo271" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipablo271" alt="ipablo271" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **Deep Learning and Data Science Projects**
 
