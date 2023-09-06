@@ -23,7 +23,7 @@ I'm Pablo Gonzalez, a Computer Science student at the University of Valle residi
 ## Rapidfire  
 
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/IPablo271/Data-science)  
+- 🔭 I’m currently working on [Data Science](https://github.com/IPablo271/Data-science)  
   
 
 - 🌱 I’m currently learning Data Science   
