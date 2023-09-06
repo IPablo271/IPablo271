@@ -2,7 +2,7 @@
 <h3 align="center">Engineering student in computer science.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipablo271" alt="ipablo271" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **Deep Learning and Data Science**
 
