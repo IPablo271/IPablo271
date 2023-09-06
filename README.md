@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/IPablo271/IPablo271/blob/main/PG.png)]()
+
 ## Hey 👋, I'm PabloGonzalez!  
   
 
@@ -19,7 +21,7 @@ I'm Pablo Gonzalez, a Computer Science student at the University of Valle residi
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/IPablo271/Data-science)  
   
@@ -31,7 +33,6 @@ I'm Pablo Gonzalez, a Computer Science student at the University of Valle residi
 
 
 
-</td></tr></table>  
 
 <br/>  
 
