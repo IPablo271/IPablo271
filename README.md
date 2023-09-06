@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Gonzalez</h1>
 <h3 align="center">Engineering student in computer science.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://allaboutintelligence.wordpress.com/2020/09/27/deep-learning-methodologies-and-applications/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipablo271&label=Profile%20views&color=0e75b6&style=flat" alt="ipablo271" /> </p>
 
 
