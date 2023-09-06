@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Gonzalez</h1>
 <h3 align="center">Engineering student in computer science.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif">
+<img align="right" alt="Coding" width="300" src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif">
 
 
 
