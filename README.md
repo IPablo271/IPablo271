@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/IPablo271/IPablo271/blob/main/PG.png)]()
 
-## Hey 👋, I'm PabloGonzalez!  
+## Hey 👋, I'm Pablo Gonzalez!  
   
 
 <a href="https://github.com/IPablo271" target="_blank">
