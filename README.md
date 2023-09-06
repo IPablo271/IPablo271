@@ -100,4 +100,3 @@ I'm Pablo Gonzalez, a Computer Science student at the University of Valle residi
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
