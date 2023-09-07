@@ -100,3 +100,5 @@ I'm Pablo Gonzalez, a Computer Science student at the University of Valle residi
 <br />
 
 ----
+
+![snake gif](https://github.com/IPablo271/IPablo271/blob/output/github-contribution-grid-snake.gif)
