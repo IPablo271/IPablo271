@@ -91,6 +91,24 @@ I'm Pablo Gonzalez, a Computer Science student at the University of Valle residi
 
 <br/>  
 
+## Proyectos Realizados
+
+### Proyecto 1: Nombre del Proyecto 1
+![Imagen del Proyecto 1](m1.png)
+
+Descripción breve del Proyecto 1. Puedes incluir el propósito, las tecnologías utilizadas y los desafíos superados. Este párrafo es solo un relleno y puedes personalizarlo con la información real de tu proyecto.
+
+### Proyecto 2: Nombre del Proyecto 2
+![Imagen del Proyecto 2](m2.png)
+
+Descripción breve del Proyecto 2. Al igual que en el primer proyecto, proporciona detalles sobre el proyecto y cualquier aspecto interesante que quieras destacar.
+
+### Proyecto 3: Nombre del Proyecto 3
+![Imagen del Proyecto 3](m3.png)
+
+Descripción breve del Proyecto 3. Este párrafo es solo un relleno y puedes personalizarlo con la información real de tu proyecto. Incluye detalles sobre las funcionalidades, el impacto y cualquier aprendizaje clave durante el desarrollo.
+
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=IPablo271&&style=flat-square)  
   
 
